@@ -1,0 +1,115 @@
+.carousel-item{
+    height: 65vh;
+}
+.sect1{
+    text-align: center;
+    padding: 20px;
+    background-color: gainsboro;
+}
+.sect1 .row{
+    margin-top: 20px;
+}
+.sect1 .card{
+    font-weight: bold;
+    font-family: "Tibetan Machine Uni";
+    font-size: 0.7em;
+    color: black;
+}
+.sect1.card:hover{
+    box-shadow: 3px 3px 3px 3px #cccccc;
+}
+.sect1 .card img:hover{
+    opacity: 0.5;
+}
+.sect1 .card img{
+    width: 100%;
+    height: 200px;
+}
+.sect2{
+    background-color: white;
+    height: 70vh;
+    text-align: center;
+    font-family: "Tibetan Machine Uni";
+    padding-top: 50px;
+}
+.vid1{
+    height: 60vh;
+    border: 2px solid black;
+}
+.sect3{
+    height: 100vh;
+    background-color: gainsboro ;
+    padding-top: 50px;
+    text-align: center;
+    font-family: "Tibetan Machine Uni";
+}
+.card-img-top{
+    height: 200px;
+    width: 200px;
+}
+.card{
+    height: 440px ;
+    width: 250px;
+    background-color: gainsboro;
+    position: center;
+    text-align: center;
+}
+.sect3 .row{
+    padding-left: 350px;
+}
+.sect4{
+    height: 70vh;
+    text-align: center;
+    padding-top: 50px;
+    font-family: "Tibetan Machine Uni";
+}
+.sect4 .row{
+    padding-left: 350px;
+}
+.sect4 .card{
+    background-color: white;
+    height: 350px;
+    width: 800px;
+    text-align: center;
+    padding: 20px;
+}
+.ftr{
+    background-color: black;
+    text-align: center;
+}
+.auth-signup{
+    background-color: gainsboro;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px black;
+}
+.auth-signup img{
+    border: 2px solid black ;
+    width: 250px;
+    height: 300px;
+    border-radius: 50%;
+}
+.auth-signup .content-title{
+    text-align: center;
+    font-family: "Tibetan Machine Uni";
+}
+.auth-signup{
+    padding: 15px;
+    margin-top: 0;
+}
+.auth-signup hr{
+    background-color: black;
+    padding: 2px;
+}
+.container{
+    padding: 50px;
+}
+.navbar-brand img{
+    height: 70px;
+    width: 220px;
+}
+.pagination5{
+    padding-left: 800px;
+}
+
+
