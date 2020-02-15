@@ -45,7 +45,7 @@
 }
 .card-img-top{
     height: 200px;
-    width: 200px;
+    width: 100%;
 }
 .card{
     height: 440px ;
@@ -111,5 +111,4 @@
 .pagination5{
     padding-left: 800px;
 }
-
 
