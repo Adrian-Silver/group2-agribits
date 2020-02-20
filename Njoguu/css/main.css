@@ -14,6 +14,8 @@
     font-family: "Tibetan Machine Uni";
     font-size: 0.7em;
     color: black;
+    width: 300px;
+    padding: 20px;
 }
 .sect1.card:hover{
     box-shadow: 3px 3px 3px 3px #cccccc;
@@ -22,7 +24,6 @@
     opacity: 0.5;
 }
 .sect1 .card img{
-    width: 100%;
     height: 200px;
 }
 .sect2{
@@ -49,22 +50,26 @@
 }
 .card{
     height: 440px ;
-    width: 250px;
+    width: 300px;
     background-color: gainsboro;
     position: center;
     text-align: center;
+    padding: 20px;
 }
 .sect3 .row{
-    padding-left: 350px;
+    padding-left: 35px;
+}
+.sect3 .card:hover{
+    opacity: 0.7;
 }
 .sect4{
     height: 70vh;
     text-align: center;
-    padding-top: 50px;
+    padding: 50px;
     font-family: "Tibetan Machine Uni";
 }
 .sect4 .row{
-    padding-left: 350px;
+    padding: 35px;
 }
 .sect4 .card{
     background-color: white;
@@ -72,6 +77,9 @@
     width: 800px;
     text-align: center;
     padding: 20px;
+}
+.sect4 .card:hover{
+    opacity: 0.7;
 }
 .ftr{
     background-color: black;
@@ -96,10 +104,15 @@
 .auth-signup{
     padding: 15px;
     margin-top: 0;
+    background-image: linear-gradient(to bottom right, darkgreen, darkolivegreen, greenyellow);
+
 }
 .auth-signup hr{
     background-color: black;
     padding: 2px;
+}
+.auth-signup label{
+    font-size: larger;
 }
 .container{
     padding: 50px;
